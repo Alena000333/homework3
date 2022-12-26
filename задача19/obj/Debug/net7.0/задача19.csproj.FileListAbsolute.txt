@@ -1,0 +1,15 @@
+C:\Users\алена\OneDrive\Рабочий стол\HW\homework3\задача19\bin\Debug\net7.0\задача19.exe
+C:\Users\алена\OneDrive\Рабочий стол\HW\homework3\задача19\bin\Debug\net7.0\задача19.deps.json
+C:\Users\алена\OneDrive\Рабочий стол\HW\homework3\задача19\bin\Debug\net7.0\задача19.runtimeconfig.json
+C:\Users\алена\OneDrive\Рабочий стол\HW\homework3\задача19\bin\Debug\net7.0\задача19.dll
+C:\Users\алена\OneDrive\Рабочий стол\HW\homework3\задача19\bin\Debug\net7.0\задача19.pdb
+C:\Users\алена\OneDrive\Рабочий стол\HW\homework3\задача19\obj\Debug\net7.0\задача19.csproj.AssemblyReference.cache
+C:\Users\алена\OneDrive\Рабочий стол\HW\homework3\задача19\obj\Debug\net7.0\задача19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\алена\OneDrive\Рабочий стол\HW\homework3\задача19\obj\Debug\net7.0\задача19.AssemblyInfoInputs.cache
+C:\Users\алена\OneDrive\Рабочий стол\HW\homework3\задача19\obj\Debug\net7.0\задача19.AssemblyInfo.cs
+C:\Users\алена\OneDrive\Рабочий стол\HW\homework3\задача19\obj\Debug\net7.0\задача19.csproj.CoreCompileInputs.cache
+C:\Users\алена\OneDrive\Рабочий стол\HW\homework3\задача19\obj\Debug\net7.0\задача19.dll
+C:\Users\алена\OneDrive\Рабочий стол\HW\homework3\задача19\obj\Debug\net7.0\refint\задача19.dll
+C:\Users\алена\OneDrive\Рабочий стол\HW\homework3\задача19\obj\Debug\net7.0\задача19.pdb
+C:\Users\алена\OneDrive\Рабочий стол\HW\homework3\задача19\obj\Debug\net7.0\задача19.genruntimeconfig.cache
+C:\Users\алена\OneDrive\Рабочий стол\HW\homework3\задача19\obj\Debug\net7.0\ref\задача19.dll
